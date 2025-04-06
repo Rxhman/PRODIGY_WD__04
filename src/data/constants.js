@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Aqueel ur rahman Khan",
+  name: "Khan Aqueel ur rahman",
   roles: [
     "Software developer",
     "Full Stack developer",
@@ -270,36 +270,7 @@ export const skills = [
   },
 ];
 
-export const experiences = [
-  {
-    id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/pictures-3e80f.appspot.com/o/Portfolio%2FExperience%2FUG%20council.jpeg?alt=media&token=c6007585-2911-452a-a8c9-dddf46e7087f",
-    role: "President",
-    company: "Undergraduate Student Council",
-    date: "June 2022 - September 2023",
-    desc: "Accomplished a 41% enhancement in academic policies by improving student satisfaction and performance through the leadership of 85 class representatives and close collaboration with college management, implementing innovative strategies.",
-    skills: ["Canva", "Team Management", "Leadership", "Event management"],
-    // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.=22245",
-  },
-  {
-    id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/pictures-3e80f.appspot.com/o/Portfolio%2FExperience%2FORCA.jpeg?alt=media&token=9ba2e1e4-a73f-4602-8690-afbb1435de69",
-    role: "Co-founder & Secretary",
-    company: "The Oxford Research Club Associates (ORCAs)",
-    date: "Jan 2021 - September 2023",
-    desc: "Elevated the exploration and learning of new concepts, languages, and technologies among 160+ members, resulting in a 30% increase in proficiency as measured by surveys and assessments through innovative workshops, seminars, and hands-on projects.",
-    skills: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Boootstrap",
-      "jQuery",
-      "Node.js",
-      "SDC",
-    ],
-    doc: "",
-  },
-];
+export const experiences = [];
 
 export const education = [
   {
